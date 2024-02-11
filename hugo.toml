@@ -1,0 +1,4 @@
+baseURL = 'https://mianai.xyz/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'paper'
