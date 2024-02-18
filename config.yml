@@ -1,0 +1,14 @@
+baseURL: 'https://kl-adofco.github.io/'
+languageCode: 'en-us'
+title: 'mianai_'
+theme: 'PaperMod'
+
+
+params:
+  homeInfoParams:
+    Title: Hi there 😃
+    Content: 🛫 Base In SH / 🖥 Work As FE / ...
+
+  socialIcons: # optional
+    - name: "twitter"
+      url: "https://twitter.com/Ee5Ke"
